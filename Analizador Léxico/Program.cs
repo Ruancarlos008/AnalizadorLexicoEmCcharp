@@ -5,7 +5,7 @@ using System.Collections;
 using System.Linq;
 
 
-// 1º ENTRADA DE TOKENS LIMITADA A 10.
+		// 1º ENTRADA DE TOKENS LIMITADA A 10.
 
 internal class AnalizadorLexicoPrimitivo
 {
